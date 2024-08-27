@@ -1,1 +1,0 @@
-Practicing the git commands
